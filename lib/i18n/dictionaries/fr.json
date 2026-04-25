@@ -1,0 +1,258 @@
+{
+  "header": {
+    "nav": {
+      "home": "Accueil",
+      "services": "Services",
+      "training": "Formations",
+      "results": "Résultats",
+      "contact": "Contact"
+    },
+    "cta": "Consultation gratuite"
+  },
+  "hero": {
+    "badge": "Solutions IA sur mesure",
+    "title": "MAGNIFIC DIGITAL",
+    "subtitle": "Applications web & mobiles propulsées par l'IA pour accélérer votre croissance",
+    "serviceLine1": "Applications web & mobiles, chatbots intelligents, agents vocaux & automatisation IA",
+    "serviceLine2": "Formations pratiques pour intégrer l'IA dans votre quotidien professionnel",
+    "cta1": "Consultation gratuite 30 min",
+    "cta2": "Voir nos réalisations",
+    "dashboard": {
+      "productivity": "Productivité",
+      "productivityValue": "+40%",
+      "engagement": "Engagement",
+      "engagementValue": "+25%",
+      "responseTime": "Temps réponse",
+      "responseTimeValue": "÷3"
+    },
+    "chat": {
+      "label": "Chatbot IA actif",
+      "greeting": "Comment puis-je vous aider ?",
+      "placeholder": "Je cherche une solution IA..."
+    },
+    "vocal": {
+      "label": "Agent vocal"
+    }
+  },
+  "mission": {
+    "title": "Nous démocratisons l'intelligence artificielle",
+    "paragraph1": "Chez Magnific Digital, nous concevons des applications web et mobiles propulsées par l'intelligence artificielle, accessibles à toutes les entreprises.",
+    "paragraph2": "PME, startups, grandes organisations — nous développons des solutions digitales intelligentes qui boostent votre productivité, améliorent l'expérience client et automatisent vos processus critiques."
+  },
+  "services": {
+    "badge": "Nos expertises",
+    "title": "Nos Solutions Innovantes",
+    "subtitle": "Applications web & mobiles propulsées par l'IA, chatbots, agents vocaux et formations pour transformer votre entreprise.",
+    "items": {
+      "webApps": {
+        "title": "Applications Web & Mobiles",
+        "description": "Applications web et mobiles sur mesure, propulsées par l'IA : analyse prédictive, automatisation intelligente, tableaux de bord dynamiques et expérience utilisateur optimisée."
+      },
+      "chatbots": {
+        "title": "Chatbots & Agents Conversationnels",
+        "description": "Service client 24/7, intégration WhatsApp/Messenger/API, réduction de 60% des demandes répétitives."
+      },
+      "voiceAgents": {
+        "title": "Agents Vocaux Intelligents",
+        "description": "Assistants IA pour automatiser appels entrants, qualification de leads, suivi client et support technique."
+      },
+      "training": {
+        "title": "Formation & Accompagnement IA",
+        "description": "Ateliers pratiques : initiation IA, prompt engineering, automatisation, intégration chatbots internes pour vos équipes."
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Notre processus",
+    "title": "Comment ça marche ?",
+    "subtitle": "Un processus simple et éprouvé pour intégrer l'IA dans votre entreprise.",
+    "stepLabel": "Étape",
+    "steps": {
+      "step1": {
+        "title": "Analyse de vos besoins",
+        "description": "Consultation gratuite pour comprendre vos défis et identifier les opportunités IA dans votre entreprise.",
+        "visualTitle": "Audit IA Gratuit",
+        "visualItems": ["Processus métiers", "Points de friction", "Opportunités automatisation", "ROI estimé"]
+      },
+      "step2": {
+        "title": "Conception sur mesure",
+        "description": "Notre équipe conçoit la solution IA adaptée : chatbot, agent vocal, app web ou formation personnalisée.",
+        "visualTitle": "Architecture Solution",
+        "visualItems": ["Choix technologique", "UX/UI Design", "Intégrations API", "Plan de déploiement"]
+      },
+      "step3": {
+        "title": "Développement agile",
+        "description": "Développement itératif avec des démos régulières. Vous validez chaque étape avant de continuer.",
+        "visualTitle": "Sprints de Dev",
+        "visualItems": ["Prototype rapide", "Tests utilisateurs", "Itérations continues", "Qualité garantie"]
+      },
+      "step4": {
+        "title": "Déploiement & Formation",
+        "description": "Mise en production, formation de vos équipes et accompagnement post-lancement pour garantir le succès.",
+        "visualTitle": "Go Live",
+        "visualItems": ["Mise en production", "Formation équipes", "Support dédié", "Optimisation continue"]
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Pourquoi choisir Magnific Digital ?",
+    "subtitle": "Une équipe passionnée par l'IA, dédiée à votre réussite.",
+    "reasons": {
+      "expertise": {
+        "title": "Expertise IA Appliquée",
+        "description": "Nous traduisons vos besoins métiers en solutions IA concrètes et rentables."
+      },
+      "team": {
+        "title": "Équipe Multidisciplinaire",
+        "description": "Développeurs IA, designers UX/UI, formateurs certifiés — tout sous un même toit."
+      },
+      "support": {
+        "title": "Accompagnement Complet",
+        "description": "De la stratégie à la formation de vos équipes, nous vous accompagnons à 100%."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Témoignages",
+    "title": "Ils nous font confiance",
+    "subtitle": "Découvrez pourquoi nos clients adorent travailler avec Magnific Digital et comment l'IA transforme leur business.",
+    "items": [
+      {
+        "name": "Marie Dubois",
+        "role": "Directrice CX, PME Industrielle",
+        "content": "Notre chatbot gère 85% des demandes clients automatiquement. Un ROI impressionnant dès le premier mois."
+      },
+      {
+        "name": "Jean-Pierre Martin",
+        "role": "CEO, StartUp Tech",
+        "content": "Grâce à Magnific Digital, notre service client a gagné 3h/jour d'automatisation."
+      },
+      {
+        "name": "Sophie Laurent",
+        "role": "Responsable Formation, Groupe Retail",
+        "content": "Excellente maîtrise technique et accompagnement pédagogique top niveau."
+      },
+      {
+        "name": "Thomas Bernard",
+        "role": "CTO, FinTech Solutions",
+        "content": "L'agent vocal IA a réduit nos temps de réponse par 3. Nos clients sont ravis."
+      },
+      {
+        "name": "Nadia Kouyaté",
+        "role": "DG, Cabinet Conseil",
+        "content": "La formation IA de Magnific Digital a transformé la productivité de toute l'équipe."
+      },
+      {
+        "name": "Alexandre Petit",
+        "role": "Responsable IT, Logistique Plus",
+        "content": "L'application sur mesure a automatisé 60% de nos processus manuels. Incroyable."
+      },
+      {
+        "name": "Camille Moreau",
+        "role": "CMO, E-commerce Pro",
+        "content": "Le chatbot WhatsApp a boosté notre engagement client de 40%. Résultats dès la 1ère semaine."
+      },
+      {
+        "name": "David Nguyen",
+        "role": "Fondateur, HealthTech",
+        "content": "Accompagnement de A à Z, de la stratégie IA au déploiement. Équipe au top."
+      }
+    ]
+  },
+  "results": {
+    "title": "Nos clients transforment leur business",
+    "stats": {
+      "productivity": "Productivité",
+      "engagement": "Engagement Client",
+      "responseTime": "Temps de Réponse"
+    },
+    "quote": "Grâce à Magnific Digital, notre chatbot gère 85% des demandes clients automatiquement.",
+    "attribution": "— Responsable CX, PME industrielle"
+  },
+  "contact": {
+    "title": "Prêt à booster votre entreprise avec l'IA ?",
+    "subtitle": "Contactez-nous dès aujourd'hui pour une analyse gratuite de vos opportunités IA.",
+    "form": {
+      "name": "Nom",
+      "company": "Entreprise",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "namePlaceholder": "Votre nom",
+      "companyPlaceholder": "Votre entreprise",
+      "emailPlaceholder": "votre@email.com",
+      "phonePlaceholder": "+1 (438) 350-2445",
+      "messagePlaceholder": "Décrivez votre projet ou votre besoin...",
+      "submit": "Envoyer ma demande",
+      "submitting": "Envoi en cours..."
+    },
+    "validation": {
+      "nameMin": "Le nom doit contenir au moins 2 caractères",
+      "companyRequired": "Le nom de l'entreprise est requis",
+      "emailInvalid": "Veuillez entrer un email valide",
+      "messageMin": "Le message doit contenir au moins 10 caractères"
+    },
+    "success": {
+      "title": "Message envoyé !",
+      "message": "Nous vous répondrons dans les 24 heures."
+    },
+    "toast": {
+      "success": "Message envoyé avec succès ! Nous vous répondrons dans les 24h.",
+      "error": "Erreur lors de l'envoi. Veuillez réessayer ou nous contacter par email.",
+      "networkError": "Erreur réseau. Vérifiez votre connexion et réessayez."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "website": "Site web"
+    },
+    "hours": {
+      "title": "Horaires",
+      "weekdays": "Lun - Ven : 9h00 - 18h00",
+      "consultation": "Consultation gratuite sur rendez-vous"
+    }
+  },
+  "footer": {
+    "description": "Applications web & mobiles propulsées par l'IA pour accélérer votre croissance. Chatbots intelligents, agents vocaux et formations sur mesure.",
+    "sections": {
+      "services": {
+        "title": "Services",
+        "links": {
+          "webApps": "Applications Web & Mobiles",
+          "chatbots": "Chatbots IA",
+          "voiceAgents": "Agents Vocaux",
+          "training": "Formation IA"
+        }
+      },
+      "company": {
+        "title": "Entreprise",
+        "links": {
+          "about": "À propos",
+          "portfolio": "Nos réalisations",
+          "howItWorks": "Comment ça marche",
+          "careers": "Carrières"
+        }
+      },
+      "support": {
+        "title": "Support",
+        "links": {
+          "contact": "Contact",
+          "faq": "FAQ",
+          "privacy": "Politique de confidentialité",
+          "legal": "Mentions légales"
+        }
+      }
+    },
+    "copyright": "Tous droits réservés.",
+    "bottomLinks": {
+      "privacy": "Confidentialité",
+      "legal": "Mentions légales"
+    }
+  },
+  "common": {
+    "backToSite": "Retour au site",
+    "readMore": "En savoir plus",
+    "learnMore": "Découvrir",
+    "languageToggle": "English"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "training": "Training",
+      "results": "Results",
+      "contact": "Contact"
+    },
+    "cta": "Free consultation"
+  },
+  "hero": {
+    "badge": "Custom AI Solutions",
+    "title": "MAGNIFIC DIGITAL",
+    "subtitle": "AI-powered web & mobile apps to accelerate your growth",
+    "serviceLine1": "Web & mobile apps, smart chatbots, voice agents & AI automation",
+    "serviceLine2": "Hands-on training to integrate AI into your daily workflow",
+    "cta1": "Free 30-min consultation",
+    "cta2": "See our work",
+    "dashboard": {
+      "productivity": "Productivity",
+      "productivityValue": "+40%",
+      "engagement": "Engagement",
+      "engagementValue": "+25%",
+      "responseTime": "Response Time",
+      "responseTimeValue": "÷3"
+    },
+    "chat": {
+      "label": "AI Chatbot active",
+      "greeting": "How can I help you?",
+      "placeholder": "I'm looking for an AI solution..."
+    },
+    "vocal": {
+      "label": "Voice Agent"
+    }
+  },
+  "mission": {
+    "title": "We make artificial intelligence accessible to all",
+    "paragraph1": "At Magnific Digital, we build AI-powered web and mobile applications that are accessible to businesses of every size.",
+    "paragraph2": "SMBs, startups, large organizations — we develop intelligent digital solutions that boost your productivity, enhance customer experience, and automate your critical processes."
+  },
+  "services": {
+    "badge": "Our expertise",
+    "title": "Our Innovative Solutions",
+    "subtitle": "AI-powered web & mobile apps, chatbots, voice agents, and training to transform your business.",
+    "items": {
+      "webApps": {
+        "title": "Web & Mobile Apps",
+        "description": "Custom AI-powered web and mobile applications: predictive analytics, intelligent automation, dynamic dashboards, and optimized user experience."
+      },
+      "chatbots": {
+        "title": "Chatbots & Conversational Agents",
+        "description": "24/7 customer service, WhatsApp/Messenger/API integration, 60% reduction in repetitive inquiries."
+      },
+      "voiceAgents": {
+        "title": "Intelligent Voice Agents",
+        "description": "AI assistants to automate inbound calls, lead qualification, customer follow-up, and technical support."
+      },
+      "training": {
+        "title": "AI Training & Consulting",
+        "description": "Hands-on workshops: AI fundamentals, prompt engineering, automation, and internal chatbot integration for your teams."
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Our process",
+    "title": "How does it work?",
+    "subtitle": "A simple, proven process to integrate AI into your business.",
+    "stepLabel": "Step",
+    "steps": {
+      "step1": {
+        "title": "Needs Assessment",
+        "description": "Free consultation to understand your challenges and identify AI opportunities within your business.",
+        "visualTitle": "Free AI Audit",
+        "visualItems": ["Business processes", "Pain points", "Automation opportunities", "Estimated ROI"]
+      },
+      "step2": {
+        "title": "Custom Design",
+        "description": "Our team designs the right AI solution for you: chatbot, voice agent, web app, or tailored training program.",
+        "visualTitle": "Solution Architecture",
+        "visualItems": ["Technology selection", "UX/UI Design", "API integrations", "Deployment plan"]
+      },
+      "step3": {
+        "title": "Agile Development",
+        "description": "Iterative development with regular demos. You validate every step before moving forward.",
+        "visualTitle": "Dev Sprints",
+        "visualItems": ["Rapid prototyping", "User testing", "Continuous iterations", "Quality guaranteed"]
+      },
+      "step4": {
+        "title": "Deployment & Training",
+        "description": "Production launch, team training, and post-launch support to ensure your success.",
+        "visualTitle": "Go Live",
+        "visualItems": ["Production launch", "Team training", "Dedicated support", "Continuous optimization"]
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Why choose Magnific Digital?",
+    "subtitle": "A team passionate about AI, dedicated to your success.",
+    "reasons": {
+      "expertise": {
+        "title": "Applied AI Expertise",
+        "description": "We turn your business needs into practical, high-ROI AI solutions."
+      },
+      "team": {
+        "title": "Multidisciplinary Team",
+        "description": "AI developers, UX/UI designers, certified trainers — all under one roof."
+      },
+      "support": {
+        "title": "End-to-End Support",
+        "description": "From strategy to team training, we support you every step of the way."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Trusted by businesses like yours",
+    "subtitle": "Discover why our clients love working with Magnific Digital and how AI is transforming their business.",
+    "items": [
+      {
+        "name": "Marie Dubois",
+        "role": "CX Director, Industrial SMB",
+        "content": "Our chatbot handles 85% of customer inquiries automatically. Impressive ROI from day one."
+      },
+      {
+        "name": "Jean-Pierre Martin",
+        "role": "CEO, Tech Startup",
+        "content": "Thanks to Magnific Digital, our customer service saves 3 hours a day through automation."
+      },
+      {
+        "name": "Sophie Laurent",
+        "role": "Training Manager, Retail Group",
+        "content": "Outstanding technical expertise paired with top-tier training support."
+      },
+      {
+        "name": "Thomas Bernard",
+        "role": "CTO, FinTech Solutions",
+        "content": "The AI voice agent cut our response times by 3x. Our customers love it."
+      },
+      {
+        "name": "Nadia Kouyaté",
+        "role": "Managing Director, Consulting Firm",
+        "content": "Magnific Digital's AI training boosted our entire team's productivity."
+      },
+      {
+        "name": "Alexandre Petit",
+        "role": "IT Manager, Logistique Plus",
+        "content": "The custom application automated 60% of our manual processes. Remarkable."
+      },
+      {
+        "name": "Camille Moreau",
+        "role": "CMO, E-commerce Pro",
+        "content": "The WhatsApp chatbot increased our customer engagement by 40%. Results from week one."
+      },
+      {
+        "name": "David Nguyen",
+        "role": "Founder, HealthTech",
+        "content": "Full support from AI strategy to deployment. An exceptional team."
+      }
+    ]
+  },
+  "results": {
+    "title": "Our clients are transforming their business",
+    "stats": {
+      "productivity": "Productivity",
+      "engagement": "Customer Engagement",
+      "responseTime": "Response Time"
+    },
+    "quote": "Thanks to Magnific Digital, our chatbot handles 85% of customer inquiries automatically.",
+    "attribution": "— CX Manager, Industrial SMB"
+  },
+  "contact": {
+    "title": "Ready to supercharge your business with AI?",
+    "subtitle": "Get in touch today for a free assessment of your AI opportunities.",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "namePlaceholder": "Your name",
+      "companyPlaceholder": "Your company",
+      "emailPlaceholder": "you@email.com",
+      "phonePlaceholder": "+1 (438) 350-2445",
+      "messagePlaceholder": "Tell us about your project or needs...",
+      "submit": "Send my request",
+      "submitting": "Sending..."
+    },
+    "validation": {
+      "nameMin": "Name must be at least 2 characters",
+      "companyRequired": "Company name is required",
+      "emailInvalid": "Please enter a valid email address",
+      "messageMin": "Message must be at least 10 characters"
+    },
+    "success": {
+      "title": "Message sent!",
+      "message": "We'll get back to you within 24 hours."
+    },
+    "toast": {
+      "success": "Message sent successfully! We'll respond within 24 hours.",
+      "error": "Failed to send. Please try again or contact us by email.",
+      "networkError": "Network error. Please check your connection and try again."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "website": "Website"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Mon - Fri: 9:00 AM - 6:00 PM",
+      "consultation": "Free consultation by appointment"
+    }
+  },
+  "footer": {
+    "description": "AI-powered web & mobile apps to accelerate your growth. Smart chatbots, voice agents, and tailored training programs.",
+    "sections": {
+      "services": {
+        "title": "Services",
+        "links": {
+          "webApps": "Web & Mobile Apps",
+          "chatbots": "AI Chatbots",
+          "voiceAgents": "Voice Agents",
+          "training": "AI Training"
+        }
+      },
+      "company": {
+        "title": "Company",
+        "links": {
+          "about": "About Us",
+          "portfolio": "Our Work",
+          "howItWorks": "How It Works",
+          "careers": "Careers"
+        }
+      },
+      "support": {
+        "title": "Support",
+        "links": {
+          "contact": "Contact",
+          "faq": "FAQ",
+          "privacy": "Privacy Policy",
+          "legal": "Legal Notice"
+        }
+      }
+    },
+    "copyright": "All rights reserved.",
+    "bottomLinks": {
+      "privacy": "Privacy",
+      "legal": "Legal Notice"
+    }
+  },
+  "common": {
+    "backToSite": "Back to site",
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "languageToggle": "Français"
+  }
+}
